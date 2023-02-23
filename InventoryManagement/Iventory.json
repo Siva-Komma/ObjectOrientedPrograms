@@ -1,0 +1,53 @@
+﻿{
+    "TypeOfRice": [
+        {
+            "name": "Basumathi",
+            "weight": 3,
+            "price": 60
+        },
+        {
+            "name": "Rice12",
+            "weight": 6,
+            "price": 100
+        },
+        {
+            "name": "Rice32",
+            "weight": 5,
+            "price": 100
+        }
+    ],
+    "TypeOfPulses": [
+        {
+            "name": "Basumathi123",
+            "weight": 30,
+            "price": 6000
+        },
+        {
+            "name": "Rice123",
+            "weight": 6,
+            "price": 500
+        },
+        {
+            "name": "Rice234",
+            "weight": 50,
+            "price": 400
+        }
+    ],
+    "TypeOfWheat": [
+        {
+            "name": "Basumathi1234",
+            "weight": 30,
+            "price": 600
+        },
+        {
+            "name": "Rice12345",
+            "weight": 60,
+            "price": 200
+        },
+        {
+            "name": "Rice223456",
+            "weight": 50,
+            "price": 600
+        }
+    ]
+}
